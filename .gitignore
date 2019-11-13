@@ -1,0 +1,21 @@
+.idea
+
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+
+.env
+db.sqlite3
+
+
+# Distribution / packaging
+.Python
+env/
+build/
+
+environment.dev
+environment.prod
